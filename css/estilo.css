@@ -1,0 +1,77 @@
+body{
+	background-color: #000000;
+	font-family: sans-serif;
+	color: #FFFFFF;
+}
+
+header{
+	text-align: center;
+}
+
+main{
+	background-color: #000000;
+	font-size: 1em;
+	margin: auto;
+	width: 80%;
+}
+
+form{
+	paddin: 50px;
+	margin: auto;
+	background-color: #2D2C2C;
+}
+
+form input{
+	margin-left: 30%;
+	width: 30%;
+	height: 25px;
+}
+
+
+form label{
+	padding-left: 15%;
+}
+
+#enviar{
+	margin: 0px;
+	margin-left: 15%;
+	width: 150px;	
+}
+
+#color{
+	width: 30px;
+	height: 30px;
+}
+
+#tasks{
+	background-color: #201F1F;
+}
+
+.tareaA{
+	background-size: 50%;
+	height: 30px;
+	width: 30px;
+	margin: auto;
+	background-image: url("../img/del.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+}
+
+.etiquetaA{
+	height: 60px;
+	width: 50%;
+	padding: 20px;
+	
+}
+
+	table{
+		font-family: arial, sans-serif;
+		border-collapse: collapse;
+		text-align: center;
+		margin-left: 0%;
+	}
+
+	td,th{
+		border: 2px solid black;
+	}
